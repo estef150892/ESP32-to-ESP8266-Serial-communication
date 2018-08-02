@@ -8,3 +8,5 @@ ESP8266---------------ESP32
    - GND  -----GND
 
 DISCONNECT WHILE UPLOADING CODE
+Deteccion de beacons por esp32 
+Esp8266 lee por serial datos de beacon cercano
